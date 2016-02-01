@@ -18,3 +18,5 @@ To simulate locally how Mixmax calls the resolver URL (to return HTML that goes 
 ```
 curl http://localhost:9145/resolver?text=cats
 ```
+What it looks like
+http://imgur.com/a/RsIDU
